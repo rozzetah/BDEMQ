@@ -1,3 +1,3 @@
 # BDEMQ
-<h1>Banco de dados, estoque, movimentação e qualidade.
-  <h2> Banco de HTML's dos relatórios de turno da Planta Piloto (CENPES).
+Banco de dados, estoque, movimentação e qualidade.<br>
+Banco de HTML's dos relatórios de turno da Planta Piloto (CENPES).
